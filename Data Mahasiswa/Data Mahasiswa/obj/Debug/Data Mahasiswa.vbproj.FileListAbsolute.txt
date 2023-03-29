@@ -1,0 +1,13 @@
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe.config
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.pdb
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.xml
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.vbproj.AssemblyReference.cache
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.vbproj.SuggestedBindingRedirects.cache
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Form1.resources
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Resources.resources
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.vbproj.GenerateResource.cache
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.vbproj.CoreCompileInputs.cache
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.exe
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.xml
+D:\Latihan\Desktop\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.pdb
